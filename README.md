@@ -54,7 +54,7 @@ Then I used FIPS 199 guide to help me format the security categorization of the 
 <br />
 Once the information type security impact levels are finalized, the system security categorization is determined by adopting the “high water mark” of information types impact determinations for the security objectives of confidentiality, integrity, and availability.
   <br/>
-<img src= "https://i.imgur.com/dMVqf0Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/xFYr2re.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
